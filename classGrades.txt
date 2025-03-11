@@ -2,3 +2,4 @@ name          CA           Exam               Total
 sarah         30            93                 100
 Adiza         30            93                 100
 sharon        23            45                  66
+Petter        17            70                  78
